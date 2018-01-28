@@ -10,5 +10,6 @@ int main(int argc, char* argv[])
 	printf("changes on master continue while I branch\n");
 	printf("even more master changes\n");
 	printf("First commit for branch 1\n");
+	printf("first change after branch merge\n");
 	return 0;
 }
