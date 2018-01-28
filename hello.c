@@ -6,5 +6,6 @@ int main(int argc, char* argv[])
 	printf("good commit\n");
 	printf("commit from someone else\n");
 	printf("My newest commit\n");
+	printf("commit from someone else before I could commit and I made a change\n");
 	return 0;
 }
