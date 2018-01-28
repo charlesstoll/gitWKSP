@@ -8,5 +8,6 @@ int main(int argc, char* argv[])
 	printf("My newest commit\n");
 	printf("commit from someone else before I could commit and I made a change\n");
 	printf("changes on master continue while I branch\n");
+	printf("even more master changes\n");
 	return 0;
 }
