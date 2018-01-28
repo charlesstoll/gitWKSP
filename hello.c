@@ -9,5 +9,6 @@ int main(int argc, char* argv[])
 	printf("commit from someone else before I could commit and I made a change\n");
 	printf("changes on master continue while I branch\n");
 	printf("even more master changes\n");
+	printf("First commit for branch 1\n");
 	return 0;
 }
